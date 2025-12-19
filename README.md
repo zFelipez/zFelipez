@@ -38,7 +38,7 @@
 ## 🔥 Streak de Commits
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zFelipez&background=0d1117&ring=d4af37&fire=58a6ff&currStreakLabel=d4af37&sideNums=58a6ff&sideLabels=58a6ff&dates=e6e6e6&stroke=d4af37&border=d4af37" />
+  <img src="https://streak-stats.demolab.com?user=zFelipez&theme=dark&background=0d1117&ring=d4af37&fire=58a6ff&currStreakLabel=d4af37&sideNums=58a6ff&sideLabels=58a6ff&dates=e6e6e6&border=d4af37" />
 </div>
 
 ---
@@ -50,21 +50,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFelipez&layout=compact&bg_color=0d1117&title_color=d4af37&text_color=e6e6e6&icon_color=58a6ff&border_color=d4af37&langs_count=6" />
 </div>
 
----
-
-## 🧩 Projetos em Destaque
-
-### 📌 Simple TS Report Automation
-Automação simples para geração de relatórios usando **TypeScript**, focada em prática e organização de código.  
-🔗 https://github.com/zFelipez/simple-ts-report-automation
-
-### 📌 Pray Intercession
-Projeto voltado para automação e coleta de dados, aplicando conceitos de **Node.js** e **web scraping**.  
-🔗 https://github.com/zFelipez/pray
-
-> *(Essa seção você pode ir atualizando conforme criar novos projetos)*
-
----
+ 
 
 ## 🎯 Objetivo Profissional
 
