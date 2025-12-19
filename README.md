@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Felipe!
+# Olá, eu sou o Felipe!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)**  
 💻 Focado em me tornar **Desenvolvedor FullStack**  
@@ -36,8 +36,16 @@
 
 ![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=zFelipez&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zFelipez&layout=compact&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFelipez
+  &layout=compact
+  &bg_color=0d1117
+  &title_color=d4af37
+  &text_color=e6e6e6
+  &icon_color=d4af37
+  &hide_border=true
+  &langs_count=6" />
+</div>
 ---
 
 ## 🔥 Objetivo
