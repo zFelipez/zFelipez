@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style='border-white'>
 
 # 👋 Olá, eu sou o Felipe
 
