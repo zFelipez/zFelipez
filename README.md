@@ -1,40 +1,42 @@
-# Olá, eu sou o Felipe!
+<div align="center">
+
+# 👋 Olá, eu sou o Felipe
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)**  
-💻 Focado em me tornar **Desenvolvedor FullStack**  
-🚀 Atualmente estudando **Next.js, TypeScript e Prisma**
+💻 Em formação para **Desenvolvedor FullStack**  
+🚀 Foco atual em **Next.js, TypeScript e Prisma**
+
+</div>
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
 </div>
 
 ---
 
 ## 📚 Atualmente Estudando
-- ⚡ Next.js (App Router, Server Actions)
-- 🧠 React (Hooks, Componentização)
-- 🛡️ TypeScript (tipagem e boas práticas)
-- 🗄️ Prisma ORM
-- 🔧 Git & GitHub
-- 🌐 Conceitos FullStack
+- ⚡ **Next.js** (App Router, Server Actions)
+- ⚛️ **React** (Hooks, Componentização)
+- 🛡️ **TypeScript** (tipagem forte e boas práticas)
+- 🗄️ **Prisma ORM**
+- 🔧 **Git & GitHub**
+- 🌐 Arquitetura **FullStack**
 
 ---
 
-## 📊 GitHub Stats
-
-![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=zFelipez&show_icons=true&theme=tokyonight&hide_border=true)
+## 🥇 Linguagens Mais Utilizadas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFelipez
@@ -46,26 +48,33 @@
   &hide_border=true
   &langs_count=6" />
 </div>
+
 ---
 
-## 🔥 Objetivo
-🎯 Conquistar minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior FullStack**, aplicando boas práticas, aprendendo continuamente e criando projetos reais.
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zFelipez
+  &show_icons=true
+  &bg_color=0d1117
+  &title_color=d4af37
+  &text_color=e6e6e6
+  &icon_color=d4af37
+  &hide_border=true" />
+</div>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Meu objetivo é conquistar minha **primeira oportunidade como Estagiário ou Desenvolvedor Júnior FullStack**, aplicando boas práticas, criando projetos reais e evoluindo constantemente no ecossistema JavaScript.
 
 ---
 
 ## 🤝 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/felipe-da-silva-lima-680096349/)
-<!--
-**zFelipez/zFelipez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-d4af37?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com](https://www.linkedin.com/in/felipe-da-silva-lima-680096349/)
+
+</div>
