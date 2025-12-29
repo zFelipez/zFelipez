@@ -4,7 +4,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)**  
 💻 Em formação para **Desenvolvedor FullStack**  
-🚀 Foco em **Next.js, TypeScript, React e Prisma**
+🚀 Foco em **Next.js, NestJS, TypeScript, React e Prisma**
 
 </div>
 
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
 </div>
@@ -27,11 +28,13 @@
 ---
 
 ## 📚 Atualmente Estudando
+
 - ⚡ **Next.js** (App Router, Server Actions)
-- ⚛️ **React** (Hooks e componentização)
+- ⚛️ **React** (Hooks, componentização e boas práticas)
 - 🛡️ **TypeScript**
+- 🧱 **NestJS** (Controllers, Services, Modules, ValidationPipe)
 - 🗄️ **Prisma ORM**
-- 🌐 **Arquitetura FullStack**
+- 🌐 **Arquitetura FullStack** (API REST, camadas e separação de responsabilidades)
 
 ---
 
@@ -50,11 +53,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFelipez&layout=compact&bg_color=0d1117&title_color=d4af37&text_color=e6e6e6&icon_color=58a6ff&border_color=d4af37&langs_count=6" />
 </div>
 
- 
+---
 
 ## 🎯 Objetivo Profissional
 
-Busco minha **primeira oportunidade como Estagiário ou Desenvolvedor Júnior FullStack**, aplicando boas práticas, aprendendo constantemente e construindo soluções reais com JavaScript e TypeScript.
+Busco minha **primeira oportunidade como Estagiário ou Desenvolvedor Júnior FullStack**, aplicando boas práticas, aprendendo constantemente e construindo soluções reais com **Next.js, NestJS, JavaScript e TypeScript**.
 
 ---
 
