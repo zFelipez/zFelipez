@@ -34,7 +34,6 @@ Foco: (
 - ⚛️ **React** (Hooks, componentização e boas práticas)
 - 🛡️ **TypeScript**
 )
-- 🧱 **NestJS** (Controllers, Services, Modules, ValidationPipe)
 - 🗄️ **Prisma ORM**
 - 🌐 **Arquitetura FullStack** (API REST, camadas e separação de responsabilidades)
 
