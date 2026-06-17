@@ -20,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
 </div>
@@ -58,7 +57,7 @@ Foco: (
 
 ## 🎯 Objetivo Profissional
 
-Busco minha **primeira oportunidade como Estagiário ou Desenvolvedor Júnior FullStack**, aplicando boas práticas, aprendendo constantemente e construindo soluções reais com **Next.js, NestJS, JavaScript e TypeScript**.
+Busco minha **primeira oportunidade como Estagiário ou Desenvolvedor Júnior FullStack**, aplicando boas práticas, aprendendo constantemente e construindo soluções reais com **Next.js, JavaScript e TypeScript**.
 
 ---
 
